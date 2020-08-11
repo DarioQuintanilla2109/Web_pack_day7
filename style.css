@@ -1,0 +1,75 @@
+label.mr-sm-2 {
+  display: inline-block;
+  margin-bottom: 0rem;
+}
+
+.card {
+  margin: auto;
+  margin-top: 3rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card-text {
+  text-align: center;
+  font-size: x-large;
+}
+
+.card-text-sm {
+  text-align: center;
+  font-size: small;
+  color: grey;
+}
+
+.card-text-m {
+  text-align: center;
+  font-size: medium;
+  color: grey;
+}
+
+.card-body {
+  padding: 0rem;
+}
+
+.card-img-main {
+  margin: auto;
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  text-align: center;
+  border: 5px solid #f3f3f3;
+  top: -60px;
+  position: relative;
+}
+
+.list-group {
+  width: 10px;
+  height: 1px;
+  top: -360px;
+  float: right;
+  left: 10px;
+  position: relative;
+  margin: auto;
+}
+
+.list-group-item.list-group-item-action {
+  background-color: rgb(80, 199, 199);
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+
+.fab.fa-twitter {
+  font-size: small;
+}
+
+.fab.fa-github {
+  font-size: small;
+}
+
+.fab.fa-linkedin-in {
+  font-size: small;
+}
+
+.fab.fa-instagram {
+  font-size: small;
+}
